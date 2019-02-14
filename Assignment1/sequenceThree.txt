@@ -1,0 +1,13 @@
+ATGA
+AA
+TTTTGA
+ATGAAG
+AA
+TT
+GG
+GG
+GGGG
+GAGTCTAGA
+ii
+done
+atgAttGA
