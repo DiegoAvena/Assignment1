@@ -2,7 +2,7 @@
 
 ![DNASequencer](https://user-images.githubusercontent.com/43594702/119876986-57802d80-bedd-11eb-806c-ff17d5b21715.png)
 
-[See it in action!]()
+[See it in action!](https://www.youtube.com/watch?v=_Th6ANyaMyY)
 
 Takes an input file with any number of DNA strands that each have an even length, and computes the mean, standard deviation, and variance of the lengths. It also computes the probability of each nucleotide and nucleotide pair. Lastly, 1000 DNA strands are generated with nucleotides that are at or near the same frequency as calculated in the inputed file. The lengths of these DNA strands also follow a gaussian distribution. All of this is written onto a file labeled diegoavena.out.
 
